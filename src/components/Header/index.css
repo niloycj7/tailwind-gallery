@@ -1,0 +1,15 @@
+.link{
+    flex: 100%;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+    padding-top: 0.625rem;
+    padding-left: 0.625rem;
+    padding-right: 0.625rem;
+}
+.link:hover{
+    opacity: 1;
+    color: rgba(220, 38, 38);
+}
+
+
